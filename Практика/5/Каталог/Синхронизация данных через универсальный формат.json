@@ -1,0 +1,39 @@
+﻿{
+"MainExchangeParameters": {
+"FormatVersion": "2.0",
+"SourceInfobasePrefix": "ГО",
+"DestinationInfobasePrefix": "ФЛ",
+"NodeCode": "ГО",
+"CorrespondentNodeCode": "ФЛ",
+"ExchangePlanName": "СинхронизацияДанныхЧерезУниверсальныйФормат",
+"CorrespondentExchangePlanName": "СинхронизацияДанныхЧерезУниверсальныйФормат",
+"ThisInfobaseDescription": "Другая программа",
+"SecondInfobaseDescription": "Управление нашей фирмой (учебная), редакция 3.0",
+"ExchangeSetupOption": "ОбменУниверсальный",
+"TransportID": "FILE",
+"SentNo": 0,
+"ReceivedNo": 0,
+"ExchangeFormatVersions": [
+"1.20",
+"1.19",
+"1.18",
+"1.17",
+"1.16",
+"1.15",
+"1.14",
+"1.10",
+"1.8",
+"1.7",
+"1.6"
+]
+},
+"XDTOExchangeParameters": {
+"ExchangeFormat": "http://v8.1c.ru/edi/edi_stnd/EnterpriseData"
+},
+"TransportSettings": {
+"DataExchangeDirectory": "D:\\репа_впк8\\Практика\\5\\Каталог",
+"CompressOutgoingMessageFile": false,
+"ArchivePasswordExchangeMessages": null,
+"TransliterateExchangeMessageFileNames": false
+}
+}
